@@ -1,4 +1,4 @@
-# EX-4(A)    LEFT SHIFT OPERATION
+# EX-4(A)    RIGHT SHIFT OPERATION
 
 ## AIM:
  To write a C program to perform the basic right shift operation for 60 integer number with 3 shift.
